@@ -97,4 +97,4 @@ MIT — free to use, modify, and share.
 
 ## 🙌 Author
 
-Built by [Aditya Mote](https://dev.to/aditya_mote_2f3e307595c53)
+Built by [Aditya Mote](https://adityamote.vercel.app)
